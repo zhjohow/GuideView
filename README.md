@@ -5,10 +5,15 @@ GuideView 用于 app 新功能高亮引导的库,支持圆形、椭圆形、矩�
 
 
 支持配置属性： 
-（1）外部点击是否关闭setTouchOutsideDismiss 
+
+（1）外部点击是否关闭setTouchOutsideDismiss
+
 （2）控件高亮形状类型，有圆形、椭圆形、矩形setHighLightStyle 
+
 （3）高亮画笔类型，有平滑和一般，默认平滑setMaskblurstyle 
+
 （4）蒙层颜色setMaskColor 
+
 （5）高亮控件padding,setHighLisghtPadding
 
 
